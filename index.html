@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Bharath Kumar | Portfolio</title>
+
+<link rel="stylesheet" href="style.css">
+
+<link rel="stylesheet"
+href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
+</head>
+
+<body>
+
+<header>
+
+<h1>Bharath Kumar</h1>
+
+<nav>
+
+<a href="#about">About</a>
+<a href="#skills">Skills</a>
+<a href="#projects">Projects</a>
+<a href="#education">Education</a>
+<a href="#contact">Contact</a>
+
+</nav>
+
+</header>
+
+
+
+<section class="hero">
+
+<h2>Hello, I'm Bharath Kumar</h2>
+
+<p>Computer Science Engineering Student | Data Analysis | Programming</p>
+
+<div class="buttons">
+
+<a href="https://github.com/bharath1518" target="_blank">
+<i class="fab fa-github"></i> GitHub
+</a>
+
+<a href="https://linkedin.com/in/pathivada-bharath-kumar" target="_blank">
+<i class="fab fa-linkedin"></i> LinkedIn
+</a>
+
+<a href="cv.pdf" download class="cv-btn">
+Download CV
+</a>
+
+</div>
+
+</section>
+
+
+
+<section id="about">
+
+<h2>About Me</h2>
+
+<p>
+
+I am a Computer Science Engineering student at Lovely Professional University.
+
+I am passionate about programming, data analysis, and building dashboards that help extract meaningful insights from data.
+
+</p>
+
+</section>
+
+
+
+<section id="skills">
+
+<h2>Skills</h2>
+
+<div class="skill-grid">
+
+<div class="skill-card">
+<h3>Languages</h3>
+<p>Java, C, C++, Python</p>
+</div>
+
+<div class="skill-card">
+<h3>Frameworks</h3>
+<p>HTML, CSS, Matplotlib</p>
+</div>
+
+<div class="skill-card">
+<h3>Tools</h3>
+<p>MySQL, Git, VS Code, Power BI</p>
+</div>
+
+<div class="skill-card">
+<h3>Soft Skills</h3>
+<p>Problem Solving, Adaptability, Time Management</p>
+</div>
+
+</div>
+
+</section>
+
+
+
+<section id="projects">
+
+<h2>Projects</h2>
+
+<div class="project-grid">
+
+<div class="project-card" onclick="openPopup('covid')">
+
+<h3>COVID-19 Data Analysis</h3>
+
+<p>Python Data Analysis Project</p>
+
+</div>
+
+
+
+<div class="project-card" onclick="openPopup('visual')">
+
+<h3>Real World Dataset Visualization</h3>
+
+<p>Power BI Dashboard</p>
+
+</div>
+
+
+
+<div class="project-card" onclick="openPopup('sdg')">
+
+<h3>Sustainable Development Dashboard</h3>
+
+<p>Excel Dashboard</p>
+
+</div>
+
+</div>
+
+</section>
+
+
+
+<section id="education">
+
+<h2>Education</h2>
+
+<div class="edu-card">
+
+<h3>B.Tech – Computer Science</h3>
+
+<p>Lovely Professional University</p>
+
+<p>2023 – Present</p>
+
+</div>
+
+
+
+<div class="edu-card">
+
+<h3>Intermediate</h3>
+
+<p>Sri Chaitanya Junior College</p>
+
+<p>88.3%</p>
+
+</div>
+
+
+
+<div class="edu-card">
+
+<h3>Matriculation</h3>
+
+<p>ARDAR E.M School</p>
+
+<p>98%</p>
+
+</div>
+
+</section>
+
+
+
+<section id="contact">
+
+<h2>Contact</h2>
+
+<p>Email: pathivadabharath0@gmail.com</p>
+
+<p>Phone: +91-9014334325</p>
+
+<div class="social">
+
+<a href="https://github.com/bharath1518">
+<i class="fab fa-github"></i>
+</a>
+
+<a href="https://linkedin.com/in/pathivada-bharath-kumar">
+<i class="fab fa-linkedin"></i>
+</a>
+
+</div>
+
+</section>
+
+
+
+<footer>
+
+<p>© 2026 Bharath Kumar</p>
+
+</footer>
+
+
+
+<div id="popup" class="popup">
+
+<div class="popup-content">
+
+<span class="close" onclick="closePopup()">&times;</span>
+
+<h3 id="popup-title"></h3>
+
+<p id="popup-desc"></p>
+
+</div>
+
+</div>
+
+
+
+<script src="script.js"></script>
+
+</body>
+
+</html>
