@@ -1,0 +1,67 @@
+Pathivada Bharath Kumar
+LinkedIn: linkedin.com/in/pathivada-bharath-kumar
+Email: pathivadabharath0@gmail.com
+GitHub: https://github.com/bharath1518
+Mobile: +91-9014334325
+
+--------------------------------------------------
+SKILLS
+--------------------------------------------------
+Languages: Java, C, C++, Python
+Frameworks: HTML, CSS, Matplotlib
+Tools/Platforms: MySQL, VS Code, Git, Power BI
+Soft Skills: Problem-Solving, Adaptability, Time Management
+
+--------------------------------------------------
+PROJECTS
+--------------------------------------------------
+COVID-19 Data Analysis with Python Project | Apr 2025
+• Developed a Python program to automate data processing tasks, reducing manual work by 50%
+• Implemented core logic using Python fundamentals such as functions, loops, lists, and dictionaries
+• Cleaned, transformed, and validated raw data for accurate statistical insights.
+• Generated visualizations to highlight key trends using Python-based plotting libraries.
+• Tech: Python, Pandas, NumPy, Matplotlib, Seaborn, Data Cleaning, EDA
+
+Data Visualization of Real World Dataset | Apr 2025
+• Leveraged advanced statistical techniques on a realworld dataset of 1M+ data points to uncover hidden correlations
+• Processed and visualized over 10,000+ data records using Excel/Power BI
+• Improved insight discovery efficiency by 40%
+
+Sustainable Development goals Dashboard | Apr 2025
+• Analysed a dataset of 50,000+ rows using Excel to identify key trends and patterns.
+• Built dynamic charts, pivot tables, slicers, and drop-down filters
+• Enhanced dashboard interactivity and usability through optimized formulas
+
+--------------------------------------------------
+TRAINING
+--------------------------------------------------
+Data Structures and Algorithms with C++ | Cipher schools | Jun 2025 – Jul 2025
+• 70 hours of live summer training covering DSA and OOP concepts.
+• Added simple data structures to store user records.
+
+--------------------------------------------------
+CERTIFICATES
+--------------------------------------------------
+• Cloud Computing | NPTEL (Nov 2025)
+• ChatGPT-4 Prompt Engineering | Infosys (Aug 2025)
+• The Bits and Bytes of Computer Networking | Coursera (Aug 2024)
+
+--------------------------------------------------
+ACHIEVEMENTS
+--------------------------------------------------
+• Competed in a web hackathon organized by Coding Wise (Mar 2024)
+
+--------------------------------------------------
+EDUCATION
+--------------------------------------------------
+• Lovely Professional University | Phagwara, Punjab
+  Bachelor of Technology - Computer Science and Engineering; CGPA: 5.8 
+  Aug 2023 - Present
+
+• Sri Chaitanya Junior College | Vishakapatnam, AP
+  Intermediate; Percentage: 88.3 
+  Apr 2021 – Mar 2023
+
+• ARDAR E.M School | Nelivada, AP
+  Matriculation; Percentage: 98 
+  Apr 2020 – Mar 2021
